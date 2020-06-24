@@ -1,6 +1,6 @@
 
 <h4 align="center"> 
-	Maratona DEV 3.0🚀
+	🚀 Maratona DEV 3.0 🚀
 </h4>
 <p align="center">
 
